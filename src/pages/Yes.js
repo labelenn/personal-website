@@ -1,5 +1,6 @@
 import '../App.css';
 import pogi from '../images/pogi.jpg';
+import { Link } from 'react-router-dom';
 
 function Yes() {
   return (
@@ -10,7 +11,9 @@ function Yes() {
       <h3>04/08/2023</h3>
       <h4>Check your email for the proposal &#128141;</h4>
       <h4>Don't be late &#128529;</h4>
-      <button variant = "primary" onClick = {() => {window.location.href = "/"}}>Home</button>{''}
+     
+      <button><Link className = 'button' to='/'>Home</Link></button>
+ 
     </div>
   );
 }

@@ -13,6 +13,7 @@ import right4 from '../images/2-4.jpg';
 import right5 from '../images/2-5.jpg';
 import right6 from '../images/2-6.jpg';
 import right7 from '../images/2-7.jpg';
+import {Link} from 'react-router-dom';
 
 function Home() {
   return (
@@ -82,11 +83,13 @@ function Home() {
             Will you virutally marry me, my constant? &#128525;
             </p>
 
-            <div className = "answer">
-              <ul>
-                <li><button onClick = {() => {window.location.href = "/yes"}}>Yes !!!</button></li>
-                <li><button onClick = {() => {window.location.href = "/no"}}>No :(</button></li>
-              </ul>
+            <div className = 'answer'>
+              <div className = "answer-yes">
+                <button><Link className = "button" to='/yes'>Yes</Link></button> 
+              </div>
+              <div className = "answer-no">
+                <button><Link className = "button"to='/no'>No</Link></button>
+              </div>
             </div>
           </div>
         </div>

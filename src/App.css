@@ -50,9 +50,11 @@
   text-align: right;
 }
 
-.answer li {
-  display: inline-block;
-  padding: 0 43px;
+.answer {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
 }
 
 button {
@@ -60,16 +62,19 @@ button {
   border: none;
   color: white;
   border-radius: 8px;
-  padding: 10px 20px;
+  padding: 10px 0px;
   cursor: pointer;
 }
 
-button:hover {
+.button:hover {
   background-color: #9B177E;
 }
 
-a {
-  text-decoration: underline;
+.button {
+  background-color: #BC339E;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 8px;
 }
 
 .yes {
