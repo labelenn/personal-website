@@ -124,7 +124,7 @@ function Home() {
 
             <p>I promise to always be by your side; sa lahat-lahat. Through the good and the bad.
             I will always be here for you, even at times na I can't. Know that you're in my mind
-            and in my heart at all times. I hope you can find comfort in that thought and by fact na you have me. Just like how
+            and in my heart at all times. I hope you can find comfort in that thought and by the fact na you have me. Just like how
             your existence has comforted me ever since. I'm your best friend, and now your partner in life, for eternity.
             </p>
 
