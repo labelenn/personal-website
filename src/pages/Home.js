@@ -142,7 +142,6 @@ function Home() {
             </div>
           </div>
         </div>
-
         <div className = "column">
           <img src = {right1} alt = "" />
           <img src = {right2} alt = "" />
