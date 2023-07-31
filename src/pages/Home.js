@@ -129,7 +129,7 @@ function Home() {
             </p>
 
             <p>
-            I can only wish you can see yourself the way I see you.
+            I can only wish na you can also see yourself the way I see you.
             I will never get tired of reminding you how great you are.
             You've always surpassed every obstacle that comes your way, and so, when you have doubts or worries,
             just come to me always and tell me. I will be here to reassure you and remind you.
@@ -171,7 +171,7 @@ function Home() {
             will you make me the happiest man online?
             </p>
             <p style = {{"padding-bottom": "50px"}} id = "center-aligned-text">
-            Will you virutally marry me, my constant? &#128525;
+            Will you virtually marry me, my constant? &#128525;
             </p>
 
             <div className = 'answer'>
