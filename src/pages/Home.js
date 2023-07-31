@@ -54,6 +54,34 @@ function Home() {
           <img src = {left5} alt = "" />
           <img src = {left6} alt = "" />
           <img src = {left7} alt = "" />
+          <img src = {left1} alt = "" />
+          <img src = {left2} alt = "" />
+          <img src = {left3} alt = "" />
+          <img src = {left4} alt = "" />
+          <img src = {left5} alt = "" />
+          <img src = {left6} alt = "" />
+          <img src = {left7} alt = "" />
+          <img src = {left1} alt = "" />
+          <img src = {left2} alt = "" />
+          <img src = {left3} alt = "" />
+          <img src = {left4} alt = "" />
+          <img src = {left5} alt = "" />
+          <img src = {left6} alt = "" />
+          <img src = {left7} alt = "" />
+          <img src = {left1} alt = "" />
+          <img src = {left2} alt = "" />
+          <img src = {left3} alt = "" />
+          <img src = {left4} alt = "" />
+          <img src = {left5} alt = "" />
+          <img src = {left6} alt = "" />
+          <img src = {left7} alt = "" />
+          <img src = {left1} alt = "" />
+          <img src = {left2} alt = "" />
+          <img src = {left3} alt = "" />
+          <img src = {left4} alt = "" />
+          <img src = {left5} alt = "" />
+          <img src = {left6} alt = "" />
+          <img src = {left7} alt = "" />
         </div>
 
         <div className = "column-middle">
@@ -116,6 +144,34 @@ function Home() {
         </div>
 
         <div className = "column">
+          <img src = {right1} alt = "" />
+          <img src = {right2} alt = "" />
+          <img src = {right3} alt = "" />
+          <img src = {right4} alt = "" />
+          <img src = {right5} alt = "" />
+          <img src = {right6} alt = "" />
+          <img src = {right7} alt = "" />
+          <img src = {right1} alt = "" />
+          <img src = {right2} alt = "" />
+          <img src = {right3} alt = "" />
+          <img src = {right4} alt = "" />
+          <img src = {right5} alt = "" />
+          <img src = {right6} alt = "" />
+          <img src = {right7} alt = "" />
+          <img src = {right1} alt = "" />
+          <img src = {right2} alt = "" />
+          <img src = {right3} alt = "" />
+          <img src = {right4} alt = "" />
+          <img src = {right5} alt = "" />
+          <img src = {right6} alt = "" />
+          <img src = {right7} alt = "" />
+          <img src = {right1} alt = "" />
+          <img src = {right2} alt = "" />
+          <img src = {right3} alt = "" />
+          <img src = {right4} alt = "" />
+          <img src = {right5} alt = "" />
+          <img src = {right6} alt = "" />
+          <img src = {right7} alt = "" />
           <img src = {right1} alt = "" />
           <img src = {right2} alt = "" />
           <img src = {right3} alt = "" />
