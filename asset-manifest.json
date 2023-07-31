@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.c42496a3.css",
-    "main.js": "/personal-website/static/js/main.208e688a.js",
+    "main.js": "/personal-website/static/js/main.55de5b6f.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
     "static/media/TenerifeSea.mp3": "/personal-website/static/media/TenerifeSea.44e59d4cf55a95704470.mp3",
     "static/media/pogi.jpg": "/personal-website/static/media/pogi.9c0cc154883a902d51bd.jpg",
@@ -22,11 +22,11 @@
     "static/media/sungit.jpeg": "/personal-website/static/media/sungit.61d7974ca0b96d331c4e.jpeg",
     "index.html": "/personal-website/index.html",
     "main.c42496a3.css.map": "/personal-website/static/css/main.c42496a3.css.map",
-    "main.208e688a.js.map": "/personal-website/static/js/main.208e688a.js.map",
+    "main.55de5b6f.js.map": "/personal-website/static/js/main.55de5b6f.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c42496a3.css",
-    "static/js/main.208e688a.js"
+    "static/js/main.55de5b6f.js"
   ]
 }
