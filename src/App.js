@@ -30,10 +30,10 @@ function App() {
       <Route exact path = "/">
       <Home />
       </Route>
-      <Route path = "/yes">
+      <Route path = "/personal-website/yes">
       <Yes />
       </Route>
-      <Route path = "/no">
+      <Route path = "/personal-website/no">
       <No />
       </Route>
     </Switch>

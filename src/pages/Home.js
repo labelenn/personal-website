@@ -85,10 +85,10 @@ function Home() {
 
             <div className = 'answer'>
               <div className = "answer-yes">
-                <button><Link className = "button" to='/yes'>Yes</Link></button> 
+                <button><Link className = "button" to='/personal-website/yes'>Yes</Link></button> 
               </div>
               <div className = "answer-no">
-                <button><Link className = "button"to='/no'>No</Link></button>
+                <button><Link className = "button"to='/personal-website/no'>No</Link></button>
               </div>
             </div>
           </div>
