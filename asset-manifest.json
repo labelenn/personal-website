@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.7aded65a.css",
-    "main.js": "/personal-website/static/js/main.3221d721.js",
+    "main.css": "/personal-website/static/css/main.9b14a1a0.css",
+    "main.js": "/personal-website/static/js/main.d376c61e.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/TenerifeSea.mp3": "/personal-website/static/media/TenerifeSea.44e59d4cf55a95704470.mp3",
     "static/media/pogi.jpg": "/personal-website/static/media/pogi.9c0cc154883a902d51bd.jpg",
     "static/media/2-7.jpg": "/personal-website/static/media/2-7.509b1ee1f2bc874e15ec.jpg",
     "static/media/2-4.jpg": "/personal-website/static/media/2-4.1eba10d2fe731b048084.jpg",
@@ -20,12 +21,12 @@
     "static/media/2-1.jpg": "/personal-website/static/media/2-1.e58f4b3d8a2c76f505d4.jpg",
     "static/media/sungit.jpeg": "/personal-website/static/media/sungit.61d7974ca0b96d331c4e.jpeg",
     "index.html": "/personal-website/index.html",
-    "main.7aded65a.css.map": "/personal-website/static/css/main.7aded65a.css.map",
-    "main.3221d721.js.map": "/personal-website/static/js/main.3221d721.js.map",
+    "main.9b14a1a0.css.map": "/personal-website/static/css/main.9b14a1a0.css.map",
+    "main.d376c61e.js.map": "/personal-website/static/js/main.d376c61e.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aded65a.css",
-    "static/js/main.3221d721.js"
+    "static/css/main.9b14a1a0.css",
+    "static/js/main.d376c61e.js"
   ]
 }
