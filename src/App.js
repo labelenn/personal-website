@@ -37,8 +37,6 @@ function App() {
       <No />
       </Route>
     </Switch>
-    
-    
   );
 }
 
