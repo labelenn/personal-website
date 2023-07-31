@@ -159,7 +159,8 @@ function Home() {
               </audio>
             </div>
 
-            <p>Tulad ng sinabi ko sa'yo, I'm already commited to you, mahal. So now,
+            <p style = {{"padding-bottom": "50px"}} id = "center-aligned-text">
+            Tulad ng sinabi ko sa'yo, I'm already commited to you, mahal. So now,
             will you make me the happiest man online?
             </p>
             <p style = {{"padding-bottom": "50px"}} id = "center-aligned-text">
