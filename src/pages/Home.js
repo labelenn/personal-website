@@ -13,6 +13,7 @@ import right4 from '../images/2-4.jpg';
 import right5 from '../images/2-5.jpg';
 import right6 from '../images/2-6.jpg';
 import right7 from '../images/2-7.jpg';
+import TenerifeSea from '../TenerifeSea.mp3';
 import { Link } from 'react-router-dom';
 
 function Home() {
@@ -118,13 +119,25 @@ function Home() {
             The luckiest boyfriend ever,
             <br></br>your constant - Lance
             </p>
+            <p id = "closing"> 01/08/2023</p>
             <hr/>
           </div>
 
           <div className = "proposal">
             <h3 style = {{"padding-bottom": "1000px", "text-align": "center"}}>Since you're already here, I have one other thing to tell you and ask you hehe &#128536;</h3>
+            
             <h4 style = {{"padding-bottom": "1000px", "text-align": "center"}}>Keep scrolling...</h4>
-            <h4 style = {{"padding-bottom": "1000px", "text-align": "center"}}>Sana naaasar ka na, malapit na maco hehe &#128536;</h4>
+            <div className = "guitar-cover">
+              <h4>Sana naaasar ka na, malapit na maco hehe &#128536;</h4>
+              <p>Before that, I recorded a cover of one of the songs na sabi ko sa'yo i-add mo sa playlist natin.
+              Kahapon ko lang 'to inaral so don't expect too much hehe. 'Wag mo na lang pansinin yung namali kong chord &#128557;
+              </p>
+              <p>Ed Sheeran - Tenerife Sea</p>
+              <audio controls>
+                <source src = {TenerifeSea} type = "audio/mpeg" />
+              </audio>
+            </div>
+
             <p>Tulad ng sinabi ko sa'yo, I'm already commited to you, mahal. So now,
             will you make me the happiest man online?
             </p>
