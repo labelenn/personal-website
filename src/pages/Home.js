@@ -13,7 +13,7 @@ import right4 from '../images/2-4.jpg';
 import right5 from '../images/2-5.jpg';
 import right6 from '../images/2-6.jpg';
 import right7 from '../images/2-7.jpg';
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
