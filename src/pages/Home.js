@@ -13,13 +13,9 @@ function Home() {
           <h3>Hi, my mahal!</h3>
           <h5>Will you be my valentine again and make me the happiest man on 14/02/2024? &#129392;</h5>
         </div>
-        <div className = 'answer'>
-          <div className = "answer-yes">
-            <button><Link className = "button" to='/personal-website/yes'>Yes</Link></button> 
-          </div>
-          <div className = "answer-no">
-            <button><Link className = "button"to='/personal-website/no'>No</Link></button>
-          </div>
+        <div className = 'buttons'>
+          <button><Link className = "button" to='/personal-website/yes'>Yes</Link></button> 
+          <button><Link className = "button"to='/personal-website/no'>No</Link></button>
         </div>
       </div>
           
