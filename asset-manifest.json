@@ -1,32 +1,21 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.c42496a3.css",
-    "main.js": "/personal-website/static/js/main.e9242d79.js",
+    "main.css": "/personal-website/static/css/main.09a6978f.css",
+    "main.js": "/personal-website/static/js/main.8afff04e.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
-    "static/media/TenerifeSea.mp3": "/personal-website/static/media/TenerifeSea.44e59d4cf55a95704470.mp3",
-    "static/media/pogi.jpg": "/personal-website/static/media/pogi.9c0cc154883a902d51bd.jpg",
-    "static/media/2-7.jpg": "/personal-website/static/media/2-7.509b1ee1f2bc874e15ec.jpg",
-    "static/media/2-4.jpg": "/personal-website/static/media/2-4.1eba10d2fe731b048084.jpg",
-    "static/media/1-2.jpg": "/personal-website/static/media/1-2.d32a962ae54c7e2eb5b5.jpg",
-    "static/media/2-5.jpg": "/personal-website/static/media/2-5.83f32e0aeeacf7875546.jpg",
-    "static/media/2-3.jpg": "/personal-website/static/media/2-3.e26b1efb8d996dafd187.jpg",
-    "static/media/1-5.jpg": "/personal-website/static/media/1-5.5c0b3a6dbb7222f99783.jpg",
-    "static/media/1-4.jpg": "/personal-website/static/media/1-4.e35dab67da4ee16a7832.jpg",
-    "static/media/2-6.jpg": "/personal-website/static/media/2-6.b7e4898a544ff206c36b.jpg",
-    "static/media/1-7.jpg": "/personal-website/static/media/1-7.e36eaa077516fbdf21f5.jpg",
-    "static/media/2-2.jpg": "/personal-website/static/media/2-2.08c7cb43fcc85a5066b6.jpg",
-    "static/media/1-6.jpg": "/personal-website/static/media/1-6.690e7563d30fdde66060.jpg",
-    "static/media/1-3.JPG": "/personal-website/static/media/1-3.87484249b6ab41f92b2e.JPG",
-    "static/media/1-1.jpg": "/personal-website/static/media/1-1.aba18434bad6356ec631.jpg",
-    "static/media/2-1.jpg": "/personal-website/static/media/2-1.e58f4b3d8a2c76f505d4.jpg",
+    "static/media/2023recap.mp4": "/personal-website/static/media/2023recap.2de285319bb06f52f335.mp4",
+    "static/media/nottinghill.jpg": "/personal-website/static/media/nottinghill.59bea6a6fd48f98cdf72.jpg",
+    "static/media/rewind.jpg": "/personal-website/static/media/rewind.92998a0182b5a93a93e1.jpg",
+    "static/media/50firstdates.jpg": "/personal-website/static/media/50firstdates.aacae05c3592249425c7.jpg",
+    "static/media/mustbelove.jpg": "/personal-website/static/media/mustbelove.962cedbe8b269d63bc13.jpg",
     "static/media/sungit.jpeg": "/personal-website/static/media/sungit.61d7974ca0b96d331c4e.jpeg",
     "index.html": "/personal-website/index.html",
-    "main.c42496a3.css.map": "/personal-website/static/css/main.c42496a3.css.map",
-    "main.e9242d79.js.map": "/personal-website/static/js/main.e9242d79.js.map",
+    "main.09a6978f.css.map": "/personal-website/static/css/main.09a6978f.css.map",
+    "main.8afff04e.js.map": "/personal-website/static/js/main.8afff04e.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c42496a3.css",
-    "static/js/main.e9242d79.js"
+    "static/css/main.09a6978f.css",
+    "static/js/main.8afff04e.js"
   ]
 }
