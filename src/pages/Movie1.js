@@ -7,8 +7,27 @@ import mustbelove from '../images/mustbelove.jpg';
 import rewind from '../images/rewind.jpg';
 
 import { Link } from 'react-router-dom';
+import emailjs from '@emailjs/browser';
+import React, { useRef } from 'react';
 
 function Movie1() {
+  const form = useRef();
+
+  var parameters = {
+    movie: "Notting Hill"
+  }
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.send('service_d9nsrgj', 'template_cm2tlfg', parameters, 'b6wBk_n2kI85pWpkZ')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  };
+
   return (
     <div className = "movie-check">
       <div className = "overlay"></div>
@@ -18,13 +37,9 @@ function Movie1() {
         <img className = "movie-poster" src = {nottinghill} alt = "nottinghill"></img> 
         <h5>Are you sure you want to watch this movie?</h5>
         <div className = "buttons">
-          <button><Link className = 'button' to='/personal-website/confirm'>Yes</Link></button>
+          <button onClick = {sendEmail}><Link className = 'button' to='/personal-website/confirm'>Yes</Link></button>
           <button><Link className = 'button' to='/personal-website/yes'>No</Link></button>
         </div>
-      </div>
-
-      <div className = "buttons">
-        <button><Link className = 'button' to='/personal-website/yes'>Back</Link></button>
       </div>
     </div>
   );

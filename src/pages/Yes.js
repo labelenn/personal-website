@@ -18,7 +18,7 @@ function Yes() {
       
       <div className = "yes-content">
         <h3>YES! IT'S A DATE!</h3>
-        <h5>What better way to spend it than watching a movie genre we both love?</h5>
+        <h5>What's a better way to do it than watching a movie genre that we both love, right?</h5>
         <h5>Choose one of the movies below, mahal &#129392;</h5>
       </div>
 

@@ -9,9 +9,11 @@ function No() {
       <div className = "overlay"></div>
       <video src = {video} autoPlay loop muted className = 'video'></video>
       
-      <img src = {sungit} alt = "" />
-      <h1>Sorry, wrong answer &#128546;</h1>
-      <button><Link className = 'button' to='/'>Try again! &#128513;</Link></button>
+      <div className = "no-content">
+        <img src = {sungit} alt = "" />
+        <h1>Sorry, wrong answer &#128546;</h1>
+        <button><Link className = 'button' to='/'>Try again! &#128513;</Link></button>
+      </div>
     </div>
   );
 }

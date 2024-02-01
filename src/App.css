@@ -15,7 +15,7 @@ h3, h5 {
 }
 
 .content {
-  padding-top: 25%;
+  padding-top: 100px;
 }
 
 .question {
@@ -110,8 +110,10 @@ a {
 }
 
 /* NO */
-.no {
-
+.no-content {
+  padding-top: 100px;
+  color: white;
+  text-align: center;
 }
 
 /* MOVIE */
@@ -131,5 +133,5 @@ a {
 }
 
 .confirm-content {
-  padding-top: 25%;
+  padding-top: 100px;
 }
